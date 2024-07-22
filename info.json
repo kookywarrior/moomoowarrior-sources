@@ -3,7 +3,7 @@
 	"version": "0.0.8",
 	"LINKS": {
 		"main": "http://moomoowarrior.mooo.com",
-		"source": "https://raw.githubusercontent.com/kookywarrior/moomoowarrior-sources/main",
+		"source": "https://kookywarrior.github.io/moomoowarrior-sources",
 		"backend": "https://moomoowarriorbackend-moomoowarrior.koyeb.app",
 		"discord": "https://discord.gg/uxMzsK2a6u"
 	}
