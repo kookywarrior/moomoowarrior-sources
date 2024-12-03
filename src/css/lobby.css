@@ -24,7 +24,7 @@
 }
 
 .playersWindow {
-	width: calc(100% - 20px);
+	width: calc(100% - 20px) !important;
 	height: calc(100% - 20px);
 	display: flex;
 	flex-direction: row;
